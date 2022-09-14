@@ -1,0 +1,19 @@
+.kilig img {
+    width: 300px;
+}
+
+.kilig {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 3em;
+}
+
+body {
+    background-image: url(images/onigiri.jpg);
+}
+
+p {
+    color: white;
+}
